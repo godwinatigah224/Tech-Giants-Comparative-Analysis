@@ -1,6 +1,5 @@
 \# Tech Giants Comparative Analysis
-
-**[🌐 Live App](https://tech-giants-comparative-analysis.streamlit.app/)** | [📁 Code](https://github.com/godwinatigah224/Tech-Giants-Comparative-Analysis)
+**[🌐 Live App](https://tech-giants-comparative-analysis-emdv3geyzwtmgwfkk2qfu8.streamlit.app/)** | [📁 Code](https://github.com/godwinatigah224/Tech-Giants-Comparative-Analysis)
 
 \## 📈 Overview
 
